@@ -1,0 +1,53 @@
+﻿@page "/userform"
+@using System.Collections.Generic
+@using System.IO
+@using System.Xml.Serialization
+@using UserCaptureApp.Model
+
+<h3>User Form</h3>
+
+<form @onsubmit="SaveUser">
+    <div>
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" @bind="user.FirstName" required />
+    </div>
+    <br />
+    <div>
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" @bind="user.LastName" required />
+    </div><br />
+    <div>
+        <label for="cellphone">Cellphone:</label>
+        <input type="text" id="cellphone" @bind="user.Cellphone" required />
+    </div>
+    <button type="submit">Submit</button>
+</form>
+
+@code {
+    private User user = new User();
+
+    private void SaveUser()
+    {
+        List<User> users = new List<User>();
+
+        if (File.Exists("users.xml"))
+        {
+            XmlSerializer serializer = new XmlSerializer(typeof(List<User>));
+            using (StreamReader reader = new StreamReader("users.xml"))
+            {
+                users = (List<User>)serializer.Deserialize(reader);
+            }
+        }
+
+        users.Add(user);
+
+        using (StreamWriter writer = new StreamWriter("users.xml"))
+        {
+            XmlSerializer serializer = new XmlSerializer(typeof(List<User>));
+            serializer.Serialize(writer, users);
+        }
+
+        // Clear form after saving
+        user = new User();
+    }
+}

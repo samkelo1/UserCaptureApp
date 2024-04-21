@@ -1,0 +1,80 @@
+﻿@page "/editusers"
+@using System.Collections.Generic
+@using System.IO
+@using System.Xml.Serialization
+@using UserCaptureApp.Model
+
+<h3>Edit Users</h3>
+
+@if (users != null && users.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Cellphone</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in users)
+            {
+                <tr>
+                    <td><input type="text" @bind="user.FirstName" /></td>
+                    <td><input type="text" @bind="user.LastName" /></td>
+                    <td><input type="text" @bind="user.Cellphone" /></td>
+                    <td>
+                        <button @onclick="() => SaveUser(user)">Save</button>
+                        <button @onclick="() => DeleteUser(user)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No users found.</p>
+}
+
+@code {
+    private List<User> users;
+
+    protected override void OnInitialized()
+    {
+        if (File.Exists("users.xml"))
+        {
+            XmlSerializer serializer = new XmlSerializer(typeof(List<User>));
+            using (StreamReader reader = new StreamReader("users.xml"))
+            {
+                users = (List<User>)serializer.Deserialize(reader);
+            }
+        }
+    }
+
+    private void SaveUser(User user)
+    {
+        if (users != null && users.Contains(user))
+        {
+            using (StreamWriter writer = new StreamWriter("users.xml"))
+            {
+                XmlSerializer serializer = new XmlSerializer(typeof(List<User>));
+                serializer.Serialize(writer, users);
+            }
+        }
+    }
+
+    private void DeleteUser(User user)
+    {
+        if (users != null && users.Contains(user))
+        {
+            users.Remove(user);
+            using (StreamWriter writer = new StreamWriter("users.xml"))
+            {
+                XmlSerializer serializer = new XmlSerializer(typeof(List<User>));
+                serializer.Serialize(writer, users);
+            }
+        }
+    }
+}

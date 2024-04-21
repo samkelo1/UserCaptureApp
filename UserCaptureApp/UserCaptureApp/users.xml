@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <FirstName>Samkelo</FirstName>
+    <LastName>Ngubo</LastName>
+    <Cellphone>0813885562</Cellphone>
+  </User>
+  <User>
+    <FirstName>Lwandle</FirstName>
+    <LastName>Ngubo</LastName>
+    <Cellphone>0813885562</Cellphone>
+  </User>
+  <User>
+    <FirstName>Shaka</FirstName>
+    <LastName>Zulu</LastName>
+    <Cellphone>0113217785</Cellphone>
+  </User>
+  <User>
+    <FirstName>Sam</FirstName>
+    <LastName>Ngubo</LastName>
+    <Cellphone>0813995562</Cellphone>
+  </User>
+</ArrayOfUser>

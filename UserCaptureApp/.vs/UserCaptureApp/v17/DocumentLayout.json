@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\pages\\userform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\pages\\userform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\pages\\editusers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\pages\\editusers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|c:\\users\\samke\\source\\repos\\usercaptureapp\\usercaptureapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD06E6A-94C9-4841-BCE3-9DBB0CFEB12A}|UserCaptureApp\\UserCaptureApp.csproj|solutionrelative:usercaptureapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "UserCaptureApp\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:57:05.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "UserCaptureApp\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:56:45.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "users.xml",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\users.xml",
+              "RelativeDocumentMoniker": "UserCaptureApp\\users.xml",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\users.xml",
+              "RelativeToolTip": "UserCaptureApp\\users.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-21T19:56:35.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\_Imports.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\_Imports.razor",
+              "RelativeToolTip": "UserCaptureApp\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:56:22.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\Delete.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Pages\\Delete.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\Delete.razor",
+              "RelativeToolTip": "UserCaptureApp\\Pages\\Delete.razor",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:55:14.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\Index.razor",
+              "RelativeToolTip": "UserCaptureApp\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:44:59.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "UserCaptureApp\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:57:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\UserForm.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Pages\\UserForm.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\UserForm.razor",
+              "RelativeToolTip": "UserCaptureApp\\Pages\\UserForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:47:28.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\appsettings.json",
+              "RelativeDocumentMoniker": "UserCaptureApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\appsettings.json",
+              "RelativeToolTip": "UserCaptureApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T19:57:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "UserCaptureApp\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:58:43.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditUsers.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\EditUsers.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Pages\\EditUsers.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\EditUsers.razor",
+              "RelativeToolTip": "UserCaptureApp\\Pages\\EditUsers.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:53:36.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\App.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\App.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\App.razor",
+              "RelativeToolTip": "UserCaptureApp\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:49:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.razor",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Pages\\Users.razor",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Pages\\Users.razor",
+              "RelativeToolTip": "UserCaptureApp\\Pages\\Users.razor",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T19:48:23.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Model\\User.cs",
+              "RelativeDocumentMoniker": "UserCaptureApp\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\samke\\source\\repos\\UserCaptureApp\\UserCaptureApp\\Model\\User.cs",
+              "RelativeToolTip": "UserCaptureApp\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:46:49.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
